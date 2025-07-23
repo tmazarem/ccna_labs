@@ -1,2 +1,2 @@
 # ccna_labs
-Laboratórios de redes para estudos do CCNA 200-301
+Laboratórios de redes no mint para estudos do CCNA 200-301
